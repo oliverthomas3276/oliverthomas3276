@@ -1,18 +1,23 @@
-# Oliver Thomas
+# Hi there, I'm Oliver Thomas 🌱
 
-Hey there! 👋 I'm Oliver, a full-stack TypeScript developer based in the beautiful country of Norway. When I'm not coding, you'll probably find me hiking in the mountains, enjoying the northern lights, or trying to teach myself to cook Norwegian dishes.
+Welcome to my GitHub profile! 🐙 I’m a full-stack TypeScript developer based in the beautiful country of Norway. I love diving into the world of web development, exploring new tech, and building stuff that makes a difference. When I'm not coding, you might find me hiking in the mountains or trying out new recipes in the kitchen.
 
-I've got a passion for building robust, scalable applications with a focus on TypeScript, React, Next.js, and Node.js. I love the challenge of creating seamless user experiences and solving complex problems.
+## What I’m Into
 
-## Tech Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- 🚀 Full-stack web development with a passion for clean and efficient code
+- 💻 TypeScript, React, Next.js, and Node.js
+- 🗺️ Mapping and geospatial data visualization
+- 🎨 Minimalist design and user-centric interfaces
+
+### Tech Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## Currently Building
-I'm currently building a personal finance tracker to help me manage my budget more effectively. It's been a great project to dive deeper into state management and API integrations.
+👨‍💻 I’m currently working on a personal project to create a real-time collaborative map application using TypeScript, React, and WebSockets. Stay tuned!
 
 ---
 
-Feel free to reach out if you want to chat about tech, Norway, or just life in general! 🚀
+Thanks for stopping by! Feel free to reach out or connect if you have any questions or just want to chat. Let’s build something awesome together! 🚀
